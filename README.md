@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kmarulab A first year Electrical Engineering Student
+- 👋 Hi, I’m @kmarulab 
 - 👀 I’m interested in Embedded Systems Programming, Finance and DevOps
 - 🌱 I’m currently learning C/C++ and Go
 - 💞️ I’m looking to collaborate on Go, C/C++ projects
