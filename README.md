@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kmarulab 
-- 👀 I’m interested in Embedded Systems Programming, Finance and DevOps
+- 👀 I’m interested in Systems Programming, Finance and DevOps
 - 🌱 I’m currently learning C/C++ and Go
 - 💞️ I’m looking to collaborate on Go, C/C++ projects
 - 📫 How to reach me https://twitter.com/kmarulab 
