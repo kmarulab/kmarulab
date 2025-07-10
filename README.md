@@ -1,19 +1,7 @@
 <!-- Greeting -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Hello%20there%20😁&reversal=false&fontAlignY=34"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Hello%20There%20😁&reversal=false&fontAlignY=34"/>
 </p>
-
-<!-- LinkedIn badge -->
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ekboruett/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<!-- Profile views -->
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=kmarulab&style=flat-square&color=blue" alt="Profile views"/>
-</div>
 
 ### Hi there 👋 My name is Kimaru Boruett.
 - 🔭 I'm diving into software-defined radios, RF/Analog/Mixed Signal IC design, and high-impact AI infrastructure projects.  
